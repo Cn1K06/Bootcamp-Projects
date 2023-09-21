@@ -3,7 +3,7 @@
 
 My first Project is about Explorotary Data Analysis and Data Visualization of World Happiness Report
 
-Logistic Regression is applied on the second Project, an introduction to Machine Learning Models 
+Logistic Regression is applied on the second Project, an introduction to Machine Learning Models. It is about classification of Music Style. 
 
 The third Project is a Natural Language Processing on Twitter Hate Speech Data by implementing Supervised Machine Learning Algorithms (Logistic Regression, Decision Tree, Random Forest and Gradient Boosting)
 
