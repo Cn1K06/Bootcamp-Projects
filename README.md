@@ -1,5 +1,5 @@
 # Bootcamp_Projects
-## Projects I have done during Datascience Bootcamp
+## Data Science Bootcamp Projects: Real-World Applications and Insights
 
 My first Project is about Explorotary Data Analysis and Data Visualization of World Happiness Report
 
